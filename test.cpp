@@ -1,4 +1,4 @@
 int main()
 {
-  return "main"
+  return "exp"
 }
